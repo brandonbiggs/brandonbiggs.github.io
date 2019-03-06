@@ -6,9 +6,13 @@ nav_order: 1
 ---
 {{ site.google_analytics }}
 
-### Research Assistant (Jan 2019 - Present)<br/> 
-Computational Creativity Lab at Idaho State University
+### Graduate Research Assistant (Jan 2019 - Present)<br/> 
+Lab of Dr. Paul Bodily, Idaho State University
+___
+<br/>
 
+### Outreach Coordinator (Jan 2019 - Present)<br/> 
+Informatics and Computer Science Dept., Idaho State University, Pocatello, ID 
 ___
 <br/>
 
