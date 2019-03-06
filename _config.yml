@@ -27,6 +27,7 @@ plugins:
 # Google Analytics - Just add {{ site.google_analytics }} to all pages
 google_analytics: >-
    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135677826-1"></script>
+
    <script>
      window.dataLayer = window.dataLayer || [];
      function gtag(){dataLayer.push(arguments);}
